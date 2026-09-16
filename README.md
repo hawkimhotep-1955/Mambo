@@ -208,3 +208,6 @@ Mambo is provided as a full free version with all features unlocked and all upda
 ---
 
 Ready to create stunning websites? **Download Mambo now and unleash your creativity!**
+
+---
+**Last updated:** 2026-09-16 01:08:42 UTC
